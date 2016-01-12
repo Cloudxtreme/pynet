@@ -1,0 +1,3 @@
+
+from inventory.arista_gather_inventory import AristaGatherInventory
+from inventory.cisco_gather_inventory import CiscoGatherInventory
